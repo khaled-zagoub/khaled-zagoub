@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋  I'm Khaled ZAGOUB!
+
+
+About Me 🚀
+🌱 I’m a Full stack developer.
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
 <!--
 **khaled-zagoub/khaled-zagoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
