@@ -3,15 +3,15 @@
 <h3 align="center"> Hey👋 I'm Khaled ZAGOUB!👋</h3>
 
 <p align="center">
-I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+A self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+💻 My experience includes working in modern tech stack like ReactJs, NodeJs, Spring Boot, Angular, MongoDB, MySQL and PostgreSQL. 💬 connect with LinkedIn :  <a href="https://www.linkedin.com/in/khaled-zagoub-33b136184/">@khaled-Zagoub</a>
 </h4>
-<p  align="center">
+<!-- <p  align="center">
 <a href="https://akasrai.github.io/">https://akasrai.github.io</a>
-</p>
+</p> -->
 
 <br/>
 <h3 align="center">
